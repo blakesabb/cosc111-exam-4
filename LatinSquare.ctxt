@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=LatinSquare
+comment1.params=filename
+comment1.target=LatinSquare(java.lang.String)
+comment1.text=\n\ Read\ a\ file\ as\ a\ square\ matrix\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ (non-Javadoc)\n\ @see\ java.lang.Object\#toString()\n
+comment3.params=i\ val
+comment3.target=int\ findInRow(int,\ int)
+comment3.text=\n\ Find\ the\ value\ in\ the\ row.\ \n\ Return\ the\ column\ where\ found\ or\ -1\ otherwise\n
+comment4.params=j\ val
+comment4.target=int\ findInColumn(int,\ int)
+comment4.text=\n\ Find\ the\ value\ in\ the\ column\n\ Return\ the\ row\ where\ found\ or\ -1\ otherwise\n
+comment5.params=row
+comment5.target=boolean\ isRowLatin(int)
+comment5.text=\n\ Check\ if\ the\ row\ is\ a\ valid\ for\ a\ Latin\ square\n
+comment6.params=col
+comment6.target=boolean\ isColumnLatin(int)
+comment6.text=\n\ Check\ if\ the\ column\ is\ valid\ for\ a\ Latin\ square\n
+comment7.params=
+comment7.target=boolean\ isLatin()
+comment7.text=\n\ Check\ if\ the\ matrix\ is\ a\ Latin\ square\n
+numComments=8

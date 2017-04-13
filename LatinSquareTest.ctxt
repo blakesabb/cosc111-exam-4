@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LatinSquareTest
+comment1.params=
+comment1.target=void\ FindInRowsTest()
+comment1.text=\n\ Find\ in\ row\ of\ matrix\ Test4\n
+comment2.params=
+comment2.target=void\ FindInColumnsTest()
+comment2.text=\n\ Find\ in\ column\ of\ matrix\ Test4\n
+comment3.params=
+comment3.target=void\ LatinTest0()
+comment3.text=\n\ Test0\ is\ valid\ Latin\ square.\ Check\ all\ the\ columns\ and\ rows\ and\n\ that\ the\ matrix\ itself\ is\ a\ Latin\ square.\n
+comment4.params=
+comment4.target=void\ LatinTest1()
+comment4.text=\n\ Test1\ is\ not\ a\ valid\ Latin\ square.\ Check\ that\ all\ the\ rows\ and\ columns\n\ come\ back\ as\ invalid\n
+comment5.params=
+comment5.target=void\ LatinTest2()
+comment5.text=\n\ Test2\ is\ a\ valid\ Latin\ square.\n
+comment6.params=
+comment6.target=void\ LatinTest4()
+comment6.text=\n\ Test4\ is\ a\ not\ valid\ Latin\ square\ but\ the\ rows\n\ are\ valid,\ and\ one\ column\ is\ valid.\n
+numComments=7
